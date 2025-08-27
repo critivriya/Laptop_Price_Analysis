@@ -2,16 +2,16 @@
 
 A web-based ML application that predicts laptop prices based on configuration inputs given by the user. 🚀
 
- Problem Statement
+# Problem Statement
 
 Modern buyers often struggle to estimate whether a laptop’s listed price is reasonable for its configuration.
 This project bridges that gap by predicting laptop prices with machine learning, making the buying/selling process more transparent and reliable.
 
-Dataset Information
+# Dataset Information
 
 Size: ~1300 laptop models
 
-Features:
+# Features:
 
 Company Name
 
@@ -35,11 +35,11 @@ Weight
 
 Price (Target Variable)
 
- ML Problem Type
+ # ML Problem Type
 
-This is a Regression Problem → predicting continuous values (Laptop Price 💰) from given specifications.
+This is a Regression Problem → predicting continuous values (Laptop Price ) from given specifications.
 
-Performance Metrics
+# Performance Metrics
 
 To evaluate the model, the following metrics were used:
 
