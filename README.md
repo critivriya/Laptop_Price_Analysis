@@ -47,7 +47,16 @@ R² Score → How well the model explains variance in price.
 
 Mean Absolute Error (MAE) → Average deviation from actual prices.
 
-# display
+# Display
 <img width="1821" height="784" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/8c242706-1221-475e-8153-bd798649b5de" />
+
+# Results Comparision
+# Amazon Price
+<img width="1265" height="330" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/dd51a8c8-44b0-428d-83b2-e6e4c4ce780f" />
+
+# Predicted Price
+<img width="1825" height="885" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/6cb638ff-5d26-4b2f-896b-0e58254bc297" />
+
+The Predicted Price is- RS 77,939
 
 
