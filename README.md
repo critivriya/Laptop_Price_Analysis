@@ -48,7 +48,8 @@ R² Score → How well the model explains variance in price.
 Mean Absolute Error (MAE) → Average deviation from actual prices.
 
 # Display
-<img width="1821" height="784" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/8c242706-1221-475e-8153-bd798649b5de" />
+<img width="1825" height="748" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/a55eb92e-5423-44b8-93b9-cc3f4a01070f" />
+
 
 # Results Comparision
 # Amazon Price
