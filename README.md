@@ -1,4 +1,4 @@
-Laptop Price Predictor
+# Laptop Price Predictor
 
 A web-based ML application that predicts laptop prices based on configuration inputs given by the user. 🚀
 
